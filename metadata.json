@@ -1,0 +1,6 @@
+{
+  "name": "RK Studio",
+  "description": "Comprehensive photography & video studio management system: event booking bills, calendar sync, cameraman hisab, VCR cassette transfers, and video editing records.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
